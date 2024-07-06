@@ -18,11 +18,11 @@ The dataset contains the following attributes:
 
 # Analyse the dataset
 
-1. Dataset size: 
+### 1. Dataset size: 
 	1. 70,000 rows
 	2. 13 columns 
 
-2. Missing values:
+### 2. Missing values:
 	1. id             0
 	2. age            0
 	3. gender         0
@@ -39,6 +39,6 @@ The dataset contains the following attributes:
 
 	14. There were no missing values
 
-3. Cardio dataset HeatMap
+### 3. Cardio dataset HeatMap
 
 ![Cardio Dataset heatmap](https://drive.google.com/uc?export=view&id=1dhXhIi0W-sqSZrV2K4-VN7UumuZXRGxF)
