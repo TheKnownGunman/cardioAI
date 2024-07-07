@@ -37,7 +37,7 @@ The dataset contains the following attributes:
 	12. active         0
 	13. cardio         0
 
-	14. There were no missing values
+**There were no missing values**
 
 ### 3. Cardio dataset HeatMap
 
@@ -53,19 +53,19 @@ Analyzing a heatmap involves looking at the correlation coefficients between dif
 - The color bar on the right indicates the strength of the correlation: red means a strong positive correlation, blue means a strong negative correlation, and white means no correlation.
 
 ### Correlations between input features and target feature
-	1. id             0
-	2. **age**            **0.24**
-	3. gender         0.01
-	4. height         -0.01
-	5. **weight**         **0.18**
-	6. ap_hi          0.05
-	7. ap_lo          0.07
-	8. **cholesterol**    **0.22**
-	9. gluc           0.09
-	10. smoke        -0.02
-	11. alco           -0.01
-	12. active         -0.04
-	13. cardio        1
+- id             0
+- **age**            **0.24**
+- gender         0.01
+- height         -0.01
+- **weight**         **0.18**
+- ap_hi          0.05
+- ap_lo          0.07
+- **cholesterol**    **0.22**
+- gluc           0.09
+- smoke        -0.02
+- alco           -0.01
+- active         -0.04
+- cardio        1
 
 ### Insights and Deductions
 
